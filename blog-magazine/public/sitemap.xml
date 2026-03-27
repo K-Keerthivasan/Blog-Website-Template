@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://example.com</loc><lastmod>2026-03-27T19:00:43.471Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/archive</loc><lastmod>2026-03-27T19:00:43.471Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/article/algolia-workflows-that-dont-break-newsrooms</loc><lastmod>2026-03-27T19:00:43.471Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/article/archive-pages-that-invite-exploration</loc><lastmod>2026-03-27T19:00:43.471Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/article/editorial-stack-for-modern-magazines</loc><lastmod>2026-03-27T19:00:43.471Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/article/mdx-patterns-for-richer-storytelling</loc><lastmod>2026-03-27T19:00:43.471Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/article/metadata-systems-for-article-seo</loc><lastmod>2026-03-27T19:00:43.471Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/article/newsletter-loops-for-reader-retention</loc><lastmod>2026-03-27T19:00:43.471Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/author/elena-park</loc><lastmod>2026-03-27T19:00:43.471Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/author/julian-cross</loc><lastmod>2026-03-27T19:00:43.471Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/author/maya-okafor</loc><lastmod>2026-03-27T19:00:43.471Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/newsletter</loc><lastmod>2026-03-27T19:00:43.471Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/search</loc><lastmod>2026-03-27T19:00:43.471Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>

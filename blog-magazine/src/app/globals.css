@@ -50,6 +50,8 @@
 }
 
 :root {
+  --demo-banner-top-offset: 4rem;
+  --demo-banner-bottom-offset: 3.5rem;
   --background: oklch(0.99 0.01 85);
   --foreground: oklch(0.18 0.02 45);
   --card: oklch(1 0 0);
@@ -118,6 +120,13 @@
   --sidebar-ring: oklch(0.76 0.09 70);
 }
 
+@media (min-width: 640px) {
+  :root {
+    --demo-banner-top-offset: 3rem;
+    --demo-banner-bottom-offset: 2.5rem;
+  }
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;
@@ -129,6 +138,8 @@
 
   body {
     @apply bg-background text-foreground;
+    padding-top: var(--demo-banner-top-offset);
+    padding-bottom: var(--demo-banner-bottom-offset);
   }
 
   h1,

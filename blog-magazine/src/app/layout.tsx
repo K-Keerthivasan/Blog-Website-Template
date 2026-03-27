@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Merriweather, Source_Sans_3 } from "next/font/google";
 
+import { DemoBanner } from "@/components/layout/demo-banner";
 import { SiteFooter } from "@/components/layout/site-footer";
 import { SiteHeader } from "@/components/layout/site-header";
 import { siteConfig } from "@/lib/site";
@@ -64,6 +65,7 @@ export default function RootLayout({
             })();`,
           }}
         />
+        <DemoBanner />
         <div className="min-h-screen">
           <SiteHeader />
           <main>{children}</main>
